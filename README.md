@@ -14,6 +14,4 @@ A continuación una lista de todos los posibles trayectos y el tiempo que se tar
 
 ![StarWars](https://i.imgur.com/yRwVjs8.png "imgTrayectos")
 
-
-
 ![StarWars](https://i.imgur.com/nLhcCaJ.png "Finalpresentación")
